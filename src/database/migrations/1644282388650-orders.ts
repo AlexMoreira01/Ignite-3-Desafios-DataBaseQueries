@@ -28,7 +28,7 @@ export class orders1644282388650 implements MigrationInterface {
             },
             {
               name: "usersId",
-              type: "uuid",
+              type: "uuid"
             }
           ]
         })
